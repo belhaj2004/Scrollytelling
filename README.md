@@ -91,18 +91,6 @@ For the best development experience, use the VS Code **Live Server** extension.
 
 ---
 
-## Future Improvements
-
-- Deploy the project using GitHub Pages
-- Improve mobile responsiveness
-- Add additional animations and transitions
-- Optimize scrolling performance
-- Add accessibility improvements
-- Include GIF previews directly in the README
-- Improve storytelling flow and visual transitions
-
----
-
 ## Author
 
 Created by [belhaj2004](https://github.com/belhaj2004)
