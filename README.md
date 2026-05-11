@@ -12,7 +12,7 @@ An interactive scrollytelling website built with HTML, CSS, and JavaScript to cr
 
 This project demonstrates a scrollytelling-style web experience where users navigate through narrative content using scrolling interactions. As users scroll through the webpage, different visual elements and sections dynamically appear or transition to enhance storytelling and user engagement.
 
-Scrollytelling is a digital storytelling technique that reveals content, animations, and visual changes interactively while the user scrolls through a webpage. :https://belhaj2004.github.io/Scrollytelling/
+Scrollytelling is a digital storytelling technique that reveals content, animations, and visual changes interactively while the user scrolls through a webpage. : https://belhaj2004.github.io/Scrollytelling/
 
 This project was developed to practice interactive front-end development, scroll-based storytelling, and data-driven visual presentation techniques.
 
