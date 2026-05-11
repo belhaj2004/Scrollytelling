@@ -4,7 +4,7 @@ An interactive scrollytelling website built with HTML, CSS, and JavaScript to cr
 
 ## Demo Video
 
-🎥 [Watch the Demo on YouTube](https://youtu.be/BeLtAP76ymk)
+[Watch the Demo on YouTube](https://youtu.be/BeLtAP76ymk)
 
 ---
 
